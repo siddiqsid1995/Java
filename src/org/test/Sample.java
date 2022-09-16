@@ -11,6 +11,10 @@ public class Sample {
 		String s = "python";
 
 		System.out.println(s.charAt(1));
+		
+		int age = 25;
+
+		System.out.println("My Age is : " + age);
 
 	}
 
